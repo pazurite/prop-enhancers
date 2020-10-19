@@ -1,12 +1,8 @@
 <p align="center">
-  <a href="https://github.com/fjc0k/vue-messenger/blob/master/dist/vue-messenger.min.js">
-  <img src="https://img.shields.io/bundlephobia/minzip/@pazurite/prop-enhancers" alt="Minified Size">
-  </a>
-  <a href="https://github.com/fjc0k/vue-messenger/blob/master/dist/vue-messenger.min.js">
-  <img src="https://img.shields.io/bundlephobia/min/@pazurite/prop-enhancers" alt="Minzipped Size">
-  </a>
-  <a href="https://www.npmjs.com/package/vue-messenger"><img src="https://img.shields.io/npm/v/vue-messenger.svg" alt="Version"></a>
-  <a href="https://www.npmjs.com/package/vue-messenger"><img src="https://img.shields.io/npm/l/vue-messenger.svg" alt="License"></a>
+  <a href="https://github.com/pazurite/prop-enhancers/blob/main/dist/vue-prop-enhancers.js"><img src="https://img.shields.io/bundlephobia/minzip/@pazurite/prop-enhancers" alt="Minified Size"></a>
+  <a href="https://github.com/pazurite/prop-enhancers/blob/main/dist/vue-prop-enhancers.js"><img src="https://img.shields.io/bundlephobia/min/@pazurite/prop-enhancers" alt="Minzipped Size"></a>
+  <a href="https://www.npmjs.com/package/@pazurite/prop-enhancers"><img src="https://img.shields.io/npm/v/@pazurite/prop-enhancers" alt="Version"></a>
+  <a href="https://www.npmjs.com/package/@pazurite/prop-enhancers"><img src="https://img.shields.io/npm/l/@pazurite/prop-enhancers" alt="License"></a>
 </p>
 
 # Vue Prop Enhancers

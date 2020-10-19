@@ -2,7 +2,6 @@
 
 .yarn/
 node_modules/
-/dist
 
 *.env
 *.pnp
